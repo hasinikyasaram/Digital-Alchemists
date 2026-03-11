@@ -1,0 +1,5 @@
+{
+  "name": "GenAI Curriculum Generator",
+  "description": "Generate comprehensive, structured learning paths and curriculums powered by AI. Export to PDF.",
+  "requestFramePermissions": []
+}
